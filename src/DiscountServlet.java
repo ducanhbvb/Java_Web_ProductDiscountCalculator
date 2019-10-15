@@ -30,7 +30,7 @@ public class DiscountServlet extends HttpServlet {
                 "            <label>Product Description: </label>\n" +
                 "            <span>zas</span><br/>\n" +
                 "            <label>Price: </label>\n" +
-                "            <span>$"+price+"</span><br/>\n" +
+                "            <spa   n>$"+price+"</span><br/>\n" +
                 "            <label>Discount Percent: </label>\n" +
                 "            <span>%"+percent+"</span><br/>\n" +
                 "            <label>Discount Amount: </label>\n" +
